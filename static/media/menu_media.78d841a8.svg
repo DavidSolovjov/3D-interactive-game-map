@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57 57" width="57" height="57">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1770 -551L150 -551L150 529L-1770 529Z" />
+		</clipPath>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="28.999" y1="51" x2="28.999" y2="7.063">
+			<stop offset="0" stop-color="#0696d7"  />
+			<stop offset="1" stop-color="#38abdf"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="28.999" y1="51" x2="28.999" y2="7.063">
+			<stop offset="0" stop-color="#0696d7"  />
+			<stop offset="1" stop-color="#38abdf"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1);stroke: #ffffff;paint-order:stroke fill markers;stroke-width: 2 } 
+		.hover { fill: url(#grd2);stroke: #ffffff;paint-order:stroke fill markers;stroke-width: 2 } 
+		.shp2 { fill: #ffffff } 
+	</style>
+	<g id="Web 1920 – 60" clip-path="url(#cp1)">
+		<g id="Group 189">
+			<g id="Group 188">
+				<path id="Ellipse 35" class="shp0" d="M29 51C16.83 51 7 41.16 7 29C7 16.83 16.83 7 29 7C41.17 7 51 16.83 51 29C51 41.16 41.17 51 29 51Z" />
+				<path id="Ellipse 36" class="hover" d="M29 51C16.83 51 7 41.16 7 29C7 16.83 16.83 7 29 7C41.17 7 51 16.83 51 29C51 41.16 41.17 51 29 51Z" />
+				<g id="Group 187">
+					<path id="Path 99" fill-rule="evenodd" class="shp2" d="M43.2 19.08L43.2 38.95C43.2 39.73 42.56 40.37 41.78 40.37L16.24 40.37C15.45 40.37 14.82 39.73 14.82 38.95L14.82 19.08C14.82 18.3 15.45 17.66 16.24 17.66L41.78 17.66C42.56 17.66 43.2 18.3 43.2 19.08ZM20.49 34.69L16.24 34.69L16.24 37.53L20.49 37.53L20.49 34.69ZM20.49 27.6L16.24 27.6L16.24 30.43L20.49 30.43L20.49 27.6ZM20.49 20.5L16.24 20.5L16.24 23.34L20.49 23.34L20.49 20.5ZM36.1 21.92C36.1 21.14 35.46 20.5 34.68 20.5L23.32 20.5C22.54 20.5 21.9 21.14 21.9 21.92L21.9 36.11C21.9 36.89 22.54 37.53 23.32 37.53L26.88 31.85L28.06 33.75L30.43 29.02L34.68 37.53C35.46 37.53 36.1 36.89 36.1 36.11L36.1 21.92ZM41.78 34.69L37.53 34.69L37.53 37.53L41.78 37.53L41.78 34.69ZM41.78 27.6L37.53 27.6L37.53 30.43L41.78 30.43L41.78 27.6ZM41.78 20.5L37.53 20.5L37.53 23.34L41.78 23.34L41.78 20.5Z" />
+					<path id="Ellipse 37" class="shp2" d="M26.16 29.02C25.38 29.02 24.74 28.38 24.74 27.6C24.74 26.81 25.38 26.18 26.16 26.18C26.95 26.18 27.58 26.81 27.58 27.6C27.58 28.38 26.95 29.02 26.16 29.02Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

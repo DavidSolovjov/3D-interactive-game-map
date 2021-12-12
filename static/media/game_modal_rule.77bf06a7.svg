@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 32" width="33" height="32">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-868 -716L1052 -716L1052 364L-868 364Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Web 1920 – 67" clip-path="url(#cp1)">
+		<g id="Group 279">
+			<g id="Group 275">
+				<path id="Path 184" fill-rule="evenodd" class="shp0" d="M32 16C32 24.82 24.82 32 16 32C7.18 32 0 24.82 0 16C0 7.18 7.18 0 16 0C24.82 0 32 7.18 32 16ZM31 16C31 7.73 24.28 1.02 16 1.02C7.72 1.02 1 7.73 1 16C1 24.27 7.72 30.97 16 30.97C24.28 30.97 31 24.27 31 16Z" />
+			</g>
+			<g id="Group 276">
+				<path id="Rectangle 133" class="shp0" d="M13 14L25 14L25 18L13 18L13 14Z" />
+				<path id="Ellipse 85" class="shp0" d="M9 18C7.89 18 7 17.11 7 16C7 14.89 7.89 14 9 14C10.11 14 11 14.89 11 16C11 17.11 10.11 18 9 18Z" />
+			</g>
+			<g id="Group 277">
+				<path id="Rectangle 134" class="shp0" d="M13 20L25 20L25 24L13 24L13 20Z" />
+				<path id="Ellipse 86" class="shp0" d="M9 24C7.89 24 7 23.11 7 22C7 20.89 7.89 20 9 20C10.11 20 11 20.89 11 22C11 23.11 10.11 24 9 24Z" />
+			</g>
+			<g id="Group 278">
+				<path id="Rectangle 135" class="shp0" d="M13 8L25 8L25 12L13 12L13 8Z" />
+				<path id="Ellipse 87" class="shp0" d="M9 12C7.89 12 7 11.11 7 10C7 8.89 7.89 8 9 8C10.11 8 11 8.89 11 10C11 11.11 10.11 12 9 12Z" />
+			</g>
+		</g>
+	</g>
+</svg>

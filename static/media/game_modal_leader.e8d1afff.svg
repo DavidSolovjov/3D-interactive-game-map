@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 32" width="33" height="32">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-868 -620L1052 -620L1052 460L-868 460Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.shp1 { fill: #ffffff;stroke: #ffffff } 
+	</style>
+	<g id="Web 1920 – 67" clip-path="url(#cp1)">
+		<g id="Group 460">
+			<g id="Group 274">
+				<path id="Path 180" fill-rule="evenodd" class="shp0" d="M32 16C32 24.82 24.82 32 16 32C7.18 32 0 24.82 0 16C0 7.18 7.18 0 16 0C24.82 0 32 7.18 32 16ZM31 16C31 7.73 24.28 1.02 16 1.02C7.72 1.02 1 7.73 1 16C1 24.27 7.72 30.98 16 30.98C24.28 30.98 31 24.27 31 16Z" />
+				<path id="Path 181" class="shp1" d="M14 19.83L14 21.85C14 22.95 14.9 23.85 16 23.85L16 23.85C17.1 23.85 18 22.95 18 21.85L18 19.83L18 11.87L18 9.86C18 8.76 17.1 7.86 16 7.86L16 7.86C14.9 7.86 14 8.76 14 9.86L14 11.87L14 19.83Z" />
+				<path id="Path 182" class="shp1" d="M7 13.83C7 12.72 7.9 11.82 9 11.82L9 11.82C10.1 11.82 11 12.72 11 13.83L11 21.85C11 22.95 10.1 23.85 9 23.85L9 23.85C7.9 23.85 7 22.95 7 21.85L7 13.83Z" />
+				<path id="Path 183" class="shp1" d="M21 21.85C21 22.95 21.9 23.85 23 23.85L23 23.85C24.1 23.85 25 22.95 25 21.85L25 17.85C25 16.75 24.1 15.85 23 15.85L23 15.85C21.9 15.85 21 16.75 21 17.85L21 21.85Z" />
+			</g>
+		</g>
+	</g>
+</svg>

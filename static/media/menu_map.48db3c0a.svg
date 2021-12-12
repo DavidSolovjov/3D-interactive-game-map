@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57 57" width="57" height="57">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1770 -679L150 -679L150 401L-1770 401Z" />
+		</clipPath>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="28.999" y1="50.994" x2="28.999" y2="7.057">
+			<stop offset="0" stop-color="#0696d7"  />
+			<stop offset="1" stop-color="#38abdf"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="28.999" y1="50.994" x2="28.999" y2="7.057">
+			<stop offset="0" stop-color="#0696d7"  />
+			<stop offset="1" stop-color="#38abdf"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="28.999" y1="50.994" x2="28.999" y2="7.057">
+			<stop offset="0" stop-color="#0696d7"  />
+			<stop offset="1" stop-color="#38abdf"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1);stroke: #ffffff;paint-order:stroke fill markers;stroke-width: 2 } 
+		.shp1 { fill: url(#grd2);stroke: #ffffff;paint-order:stroke fill markers;stroke-width: 2 } 
+		.hover { fill: url(#grd3);stroke: #ffffff;paint-order:stroke fill markers;stroke-width: 2 } 
+		.shp3 { fill: #ffffff } 
+	</style>
+	<g id="Web 1920 – 60" clip-path="url(#cp1)">
+		<g id="Group 189">
+			<g id="Group 186">
+				<path id="Ellipse 32" class="shp0" d="M29 50.99C16.83 50.99 7 41.16 7 28.99C7 16.83 16.83 6.99 29 6.99C41.17 6.99 51 16.83 51 28.99C51 41.16 41.17 50.99 29 50.99Z" />
+				<path id="Ellipse 33" class="shp1" d="M29 50.99C16.83 50.99 7 41.16 7 28.99C7 16.83 16.83 6.99 29 6.99C41.17 6.99 51 16.83 51 28.99C51 41.16 41.17 50.99 29 50.99Z" />
+				<path id="Ellipse 34" class="hover" d="M29 50.99C16.83 50.99 7 41.16 7 28.99C7 16.83 16.83 6.99 29 6.99C41.17 6.99 51 16.83 51 28.99C51 41.16 41.17 50.99 29 50.99Z" />
+				<g id="Group 185">
+					<path id="Path 96" class="shp3" d="M29.85 29.03C28.87 27.57 28.14 25.24 27.67 23.35L21.55 23.35C20.77 23.35 19.89 23.94 19.61 24.66L16.42 32.63C16.93 32.64 18.76 32.47 24.03 30.48C26.56 29.52 28.52 29.16 29.85 29.03Z" />
+					<path id="Path 97" class="shp3" d="M37.16 23.35L35.97 23.35C35.24 26.31 33.86 30.41 31.82 30.41C31.78 30.41 31.75 30.4 31.72 30.39L31.71 30.41C31.69 30.41 29.12 30.06 24.53 31.8C20.61 33.29 17.91 34.03 16.48 34.03C16.25 34.03 16.05 34.01 15.88 33.97L14.45 37.53L42.84 37.53L37.16 23.35Z" />
+					<path id="Path 98" fill-rule="evenodd" class="shp3" d="M27.56 18.6C27.56 17.51 28.33 16.28 29.49 15.53C30.15 15.08 30.95 14.82 31.82 14.82C32.68 14.82 33.49 15.08 34.15 15.53C35.31 16.28 36.08 17.51 36.08 18.6C36.08 20.33 34.17 29.7 31.82 29.7C29.47 29.7 27.56 20.33 27.56 18.6ZM29.08 18.97C29.08 20.48 30.31 21.71 31.82 21.71C33.33 21.71 34.56 20.48 34.56 18.97C34.56 18.04 34.09 17.21 33.37 16.72C32.92 16.43 32.39 16.23 31.82 16.23C31.25 16.23 30.72 16.43 30.27 16.72C29.55 17.21 29.08 18.04 29.08 18.97ZM29.66 22.51C30.25 24.87 31.1 27.43 31.82 28.17C32.54 27.43 33.39 24.87 33.98 22.51C33.35 22.9 32.61 23.13 31.82 23.13C31.03 23.13 30.29 22.9 29.66 22.51Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

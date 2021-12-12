@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57 57" width="57" height="57">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1770 -745L150 -745L150 335L-1770 335Z" />
+		</clipPath>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="28.999" y1="50.989" x2="28.999" y2="7.052">
+			<stop offset="0" stop-color="#0696d7"  />
+			<stop offset="1" stop-color="#38abdf"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="28.999" y1="50.989" x2="28.999" y2="7.052">
+			<stop offset="0" stop-color="#0696d7"  />
+			<stop offset="1" stop-color="#38abdf"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="28.999" y1="50.989" x2="28.999" y2="7.052">
+			<stop offset="0" stop-color="#0696d7"  />
+			<stop offset="1" stop-color="#38abdf"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1);stroke: #ffffff;paint-order:stroke fill markers;stroke-width: 2 } 
+		.shp1 { fill: url(#grd2);stroke: #ffffff;paint-order:stroke fill markers;stroke-width: 2 } 
+		.hover { fill: url(#grd3);stroke: #ffffff;paint-order:stroke fill markers;stroke-width: 2 } 
+		.shp3 { fill: #ffffff } 
+	</style>
+	<g id="Web 1920 – 60" clip-path="url(#cp1)">
+		<g id="Group 189">
+			<g id="Group 183">
+				<path id="Ellipse 26" class="shp0" d="M29 50.99C16.83 50.99 7 41.16 7 28.99C7 16.82 16.83 6.99 29 6.99C41.17 6.99 51 16.82 51 28.99C51 41.16 41.17 50.99 29 50.99Z" />
+				<path id="Ellipse 27" class="shp1" d="M29 50.99C16.83 50.99 7 41.16 7 28.99C7 16.82 16.83 6.99 29 6.99C41.17 6.99 51 16.82 51 28.99C51 41.16 41.17 50.99 29 50.99Z" />
+				<path id="Ellipse 28" class="hover" d="M29 50.99C16.83 50.99 7 41.16 7 28.99C7 16.82 16.83 6.99 29 6.99C41.17 6.99 51 16.82 51 28.99C51 41.16 41.17 50.99 29 50.99Z" />
+				<g id="Group 182">
+					<path id="Path 93" fill-rule="evenodd" class="shp3" d="M34.66 31.09L34.68 31.09L34.03 32.89L32.09 38.28L31.77 39.18L26.32 39.18L25.99 38.28L23.99 32.81L23.38 31.13C21.01 28.66 19.46 24.92 19.46 21.7C19.46 16.33 23.73 11.97 29 11.97C34.27 11.97 38.54 16.33 38.54 21.7C38.54 24.91 37.01 28.61 34.66 31.09ZM32.62 32.78C31.51 33.47 30.28 33.88 29 33.88C27.74 33.88 26.54 33.48 25.44 32.82L27.27 37.81L30.81 37.81L32.62 32.78ZM33.09 21.7C33.09 16.77 30.93 13.34 29 13.34C27.07 13.34 24.91 16.77 24.91 21.7C24.91 27.28 27.46 32.52 29 32.52C30.54 32.52 33.09 27.28 33.09 21.7Z" />
+					<path id="Path 94" class="shp3" d="M27.65 40.57L26.28 40.57L26.28 41.94L26.28 43.31C26.28 44.81 27.51 46.04 29.01 46.04C30.51 46.04 31.73 44.81 31.73 43.31L31.73 41.94L31.73 40.57L30.37 40.57L27.65 40.57Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

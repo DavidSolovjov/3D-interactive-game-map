@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" href="/favicon.ico" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,shrink-to-fit=no">
+	<meta name="theme-color" content="#000000" />
+	<meta name="description" content="Web site created using create-react-app" />
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+	<link rel="manifest" href="/manifest.json" />
+	<title>DEV0420</title>
+	<link href="./static/css/main.de49b600.chunk.css" rel="stylesheet"> </head>
+
+<body style="background:#3d94ca">
+	<noscript>You need to enable JavaScript to run this app.</noscript>
+	<div id="root"></div>
+	<audio id="background_music" src="music/constructionclouds_01.mp3" loop></audio>
+	<script>
+	function analytics(e) {
+		console.log("analytics " + e)
+	}
+
+	function cancelFullScreen() {
+		var e = document,
+			l = e.cancelFullScreen || e.webkitCancelFullScreen || e.mozCancelFullScreen || e.exitFullscreen || e.webkitExitFullscreen;
+		if(l) l.call(e);
+		else if(void 0 !== window.ActiveXObject) {
+			var n = new ActiveXObject("WScript.Shell");
+			null !== n && n.SendKeys("{F11}")
+		}
+	}
+
+	function requestFullScreen(e) {
+		var l = e.requestFullScreen || e.webkitRequestFullScreen || e.mozRequestFullScreen || e.msRequestFullscreen;
+		if(l) l.call(e);
+		else if(void 0 !== window.ActiveXObject) {
+			var n = new ActiveXObject("WScript.Shell");
+			null !== n && n.SendKeys("{F11}")
+		}
+		return !1
+	}
+
+	function toggleFullScreen(e) {
+		return e || (e = document.body), document.fullScreenElement && null !== document.fullScreenElement || document.mozFullScreen || document.webkitIsFullScreen ? cancelFullScreen() : requestFullScreen(e), !1
+	}
+	var lastTouchEnd = 0;
+	document.addEventListener("touchend", (function(e) {
+		var l = (new Date).getTime();
+		l - lastTouchEnd <= 300 && e.preventDefault(), lastTouchEnd = l
+	}), !1), document.addEventListener("touchmove", (function(e) {
+		1 !== e.scale && e.preventDefault()
+	}), !1)
+	</script>
+	<script src="https://fast.wistia.com/embed/medias/rpbxyy3m64.jsonp" async></script>
+	<script src="https://fast.wistia.com/embed/medias/55ks5vhfck.jsonp" async></script>
+	<script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+	<script>
+	! function(e) {
+		function r(r) {
+			for(var n, l, a = r[0], i = r[1], f = r[2], p = 0, s = []; p < a.length; p++) l = a[p], Object.prototype.hasOwnProperty.call(o, l) && o[l] && s.push(o[l][0]), o[l] = 0;
+			for(n in i) Object.prototype.hasOwnProperty.call(i, n) && (e[n] = i[n]);
+			for(c && c(r); s.length;) s.shift()();
+			return u.push.apply(u, f || []), t()
+		}
+
+		function t() {
+			for(var e, r = 0; r < u.length; r++) {
+				for(var t = u[r], n = !0, a = 1; a < t.length; a++) {
+					var i = t[a];
+					0 !== o[i] && (n = !1)
+				}
+				n && (u.splice(r--, 1), e = l(l.s = t[0]))
+			}
+			return e
+		}
+		var n = {},
+			o = {
+				1: 0
+			},
+			u = [];
+
+		function l(r) {
+			if(n[r]) return n[r].exports;
+			var t = n[r] = {
+				i: r,
+				l: !1,
+				exports: {}
+			};
+			return e[r].call(t.exports, t, t.exports, l), t.l = !0, t.exports
+		}
+		l.m = e, l.c = n, l.d = function(e, r, t) {
+			l.o(e, r) || Object.defineProperty(e, r, {
+				enumerable: !0,
+				get: t
+			})
+		}, l.r = function(e) {
+			"undefined" != typeof Symbol && Symbol.toStringTag && Object.defineProperty(e, Symbol.toStringTag, {
+				value: "Module"
+			}), Object.defineProperty(e, "__esModule", {
+				value: !0
+			})
+		}, l.t = function(e, r) {
+			if(1 & r && (e = l(e)), 8 & r) return e;
+			if(4 & r && "object" == typeof e && e && e.__esModule) return e;
+			var t = Object.create(null);
+			if(l.r(t), Object.defineProperty(t, "default", {
+					enumerable: !0,
+					value: e
+				}), 2 & r && "string" != typeof e)
+				for(var n in e) l.d(t, n, function(r) {
+					return e[r]
+				}.bind(null, n));
+			return t
+		}, l.n = function(e) {
+			var r = e && e.__esModule ? function() {
+				return e.default
+			} : function() {
+				return e
+			};
+			return l.d(r, "a", r), r
+		}, l.o = function(e, r) {
+			return Object.prototype.hasOwnProperty.call(e, r)
+		}, l.p = "./";
+		var a = this["webpackJsonpreact-islands"] = this["webpackJsonpreact-islands"] || [],
+			i = a.push.bind(a);
+		a.push = r, a = a.slice();
+		for(var f = 0; f < a.length; f++) r(a[f]);
+		var c = i;
+		t()
+	}([])
+	</script>
+	<script src="./static/js/2.b9fcb02c.chunk.js"></script>
+	<script src="./static/js/main.3e95b0a0.chunk.js"></script>
+</body>
+
+</html>
